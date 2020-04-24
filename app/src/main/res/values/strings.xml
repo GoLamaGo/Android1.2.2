@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Прсмотр фото</string>
+    <string name="linkOnPhoto">http://myfile.org/%d</string>
+    <string name="buttonForward">Вперед</string>
+    <string name="buttonReward">Назад</string>
+    <string name="photo">Photos</string>
+</resources>
